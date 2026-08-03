@@ -29,4 +29,8 @@ Global FDE connects enterprises, Forward Deployed Engineers, AI product and engi
 - [Awesome Global FDE](https://github.com/global-fde/awesome-global-fde) — curated FDE and production AI resources.
 - [FDE Member Network](https://github.com/global-fde/awesome-global-fde/tree/main/members) — practitioners and teams with verifiable delivery capabilities.
 
+## Initiator
+
+**[David Li (李样兵)](https://github.com/global-fde/awesome-global-fde/blob/main/members/profiles/david-li.md)** — Global FDE initiator and founder of SandBase AI. Focused on production AI, agent infrastructure, and trusted ecosystem connections.
+
 > Bring a real deployment problem. Leave with trusted connections and reusable field knowledge.

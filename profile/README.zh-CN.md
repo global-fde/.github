@@ -29,4 +29,8 @@ Global FDE 连接企业需求方、FDE、AI 产品与工程团队、交付伙伴
 - [Awesome Global FDE](https://github.com/global-fde/awesome-global-fde) — 精选 FDE 与生产级 AI 资料。
 - [FDE 会员网络](https://github.com/global-fde/awesome-global-fde/tree/main/members) — 具备可验证交付能力的从业者与团队。
 
+## 发起人
+
+**[David（李样兵）](https://github.com/global-fde/awesome-global-fde/blob/main/members/profiles/david-li.zh-CN.md)** — Global FDE 发起人、SandBase AI 创始人，关注生产级 AI、Agent 基础设施和可信生态连接。
+
 > 带着真实问题来，带着可信连接和可复用经验离开。
